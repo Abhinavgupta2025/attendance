@@ -1,0 +1,9 @@
+rollno,name,present,absent
+1,abhi,present
+4,me,present
+5,aditi,present
+7,sush,present
+9,akky,present
+10,lokesh,present
+11,jia,present
+14,future,present
